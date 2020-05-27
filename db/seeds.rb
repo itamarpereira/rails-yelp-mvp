@@ -29,5 +29,7 @@ puts "Creating 5 restaurants with reviews"
     )
     review.save!
   end
-  puts "done!"
+
 end
+
+puts "Done!"
